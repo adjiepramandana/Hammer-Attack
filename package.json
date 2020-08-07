@@ -1,0 +1,29 @@
+{
+  "name": "ddos-tools",
+  "version": "1.0.0",
+  "description": "by overwhelming it with traffic from multiple sources. They target a wide variety of important resources\r from banks to news websites, and present a major challenge to making sure people can publish and access important information",
+  "main": "ddos-attack.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjiepramandana/hammer-Attack.git"
+  },
+  "keywords": [
+    "ddos",
+    "cmd",
+    "python",
+    "hack",
+    "termux",
+    "tools hack",
+    "tools ddos",
+    "ddos indonesia"
+  ],
+  "author": "adjiepramandana Remake From Ha3MrX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adjiepramandana/hammer-Attack/issues"
+  },
+  "homepage": "https://github.com/adjiepramandana/hammer-Attack#readme"
+}
