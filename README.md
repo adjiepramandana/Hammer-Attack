@@ -14,7 +14,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 # USAGE
 
-### `cd ddos-tools`
+### `cd Hammer-Attack`
 
 ### `chmod +x ddos-attack.py`
 
